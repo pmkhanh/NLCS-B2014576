@@ -1,0 +1,17 @@
+body{
+    background-image: url(../src/images/1.jpg);
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+header{
+    font-weight: 500;
+}
+table{
+    background: #fff;
+    opacity: 0.8;
+    border-radius: 10px;
+    overflow: hidden;
+    color: #000000;
+}
